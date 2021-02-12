@@ -73,5 +73,3 @@ If you have any other questions or issues, feel free to ask on [**AMD-OSX Discor
  - [XLNC](https://github.com/naveenkrdy) for Adobe patches for AMD CPUs
  - [AMD-OSX Community](https://amd-osx.com) for support while making my Hackintosh
 <br>
-
-![Screenshot](/screenshot.png?raw=true)
