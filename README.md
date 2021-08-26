@@ -1,5 +1,6 @@
 # OpenCore EFIs
 This is a Repository Of OpenCore EFIs
+Feel free to create an issue for custom EFI
 
 ## How to use
   1. Make your USB installer with [**this guide**](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
