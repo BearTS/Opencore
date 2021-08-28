@@ -8,3 +8,5 @@ This is Opencore Bootloader Premade efi for Mojave and above for the coffee lake
 | Audio       | S1220A                       |
 | Ethernet    | Realtek Ethernet             |
 | Opencore    | v0.7.2                       |
+
+Feel free to create an issue for custom EFI
